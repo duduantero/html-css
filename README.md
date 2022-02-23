@@ -5,6 +5,6 @@ Estou aprendendo a criar sites e agora vou gerenciar repositórios!
  
  <a href="https://duduantero.github.io/html-css/desafios/des06/des06.html"> Executar o desafio 06 </a>
 
- <a href="https://duduantero.github.io/html-css/tree/main/desafios/desafio10/home.html"> Executar o desafio 10 </a>
+ <a href="https://duduantero.github.io/html-css/desafios/desafio10/home.html"> Executar o desafio 10 </a>
 
  
